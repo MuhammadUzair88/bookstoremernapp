@@ -1,0 +1,66 @@
+[
+    {
+        "id": 1,
+        "name": "Adventure Tales",
+        "title": "Embark on thrilling journeys through magical lands and epic quests.",
+        "price": 0,
+        "category": "Free",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Science Wonders",
+        "title": "Dive into the world of science with captivating facts and experiments.",
+        "price": 0,
+        "category": "Free",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Mystery Chronicles",
+        "title": "Uncover the mysteries of the past with mind-bending detective stories.",
+        "price": 0,
+        "category": "Free",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Fantasy Realm",
+        "title": "Step into a fantastical world of dragons, wizards, and magical kingdoms.",
+        "price": 15,
+        "category": "Premium",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg"
+    },
+    {
+        "id": 5,
+        "name": "Tech Revolution",
+        "title": "Explore the future of technology with cutting-edge advancements and innovations.",
+        "price": 20,
+        "category": "Paid",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg"
+    },
+    {
+        "id": 6,
+        "name": "Historical Legends",
+        "title": "Discover the legends and myths that shaped history across the world.",
+        "price": 10,
+        "category": "Standard",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg"
+    },
+    {
+        "id": 7,
+        "name": "Art of Cooking",
+        "title": "Learn the secrets of culinary arts from the world’s top chefs.",
+        "price": 25,
+        "category": "Exclusive",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg"
+    },
+    {
+        "id": 8,
+        "name": "Poetry of Nature",
+        "title": "A beautiful collection of poems that celebrate the wonders of nature.",
+        "price": 12,
+        "category": "Standard",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg"
+    }
+]
